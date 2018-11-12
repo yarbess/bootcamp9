@@ -1,2 +1,2 @@
 # bootcamp9
-https://yarbess.github.io/bootcamp9/.
+https://yarbess.github.io/bootcamp9/
